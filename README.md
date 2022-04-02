@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/debagnik02/Testing/blob/main/images/dream.png>
-    <img src="pic.jpeg" alt="Logo" width="400" height="400">
+    <img src="https://github.com/debagnik02/Testing/blob/main/images/dream.png?raw=true" height="400">
   </a>
 
   <h3 align="center" color="blue">Project</h3>
